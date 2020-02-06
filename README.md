@@ -7,3 +7,4 @@ This is a line from RStudio.
 And a second one.
 
 Now, this is a line added on Github.
+And now added again from RStudio.
